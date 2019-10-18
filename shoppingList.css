@@ -1,0 +1,65 @@
+#stop {
+  position: absolute;
+  color:  white;
+  font-family: "Lucida Console", Times, Monospace;
+  width: 40%
+  text-indent:50%;
+  top: 65%;
+  left: 11%;
+  font-size: 400%;
+  font-style: italic;
+}
+
+#title {
+  font-size:500%;
+  position:absolute;
+  left:27%;
+  top: -5%;
+  color
+}
+
+
+
+#add {
+  position:absolute;
+  left:40%;
+  top:20%;
+}
+#buttonOne {
+  position:absolute;
+  left:54%;
+  top:20%;
+}
+
+
+li {
+  font-size:200%;
+}
+
+ol {
+  position: absolute;
+  left: 4%;
+  top: 20%;
+}
+
+
+#remove {
+  position: absolute;
+  left:38%;
+  top:87%;
+}
+#buttonTwo {
+  position:absolute;
+  left:48%;
+  top: 87%;
+}
+
+input {
+  border: 2px dark blue;
+  border-radius: 10px;
+}
+
+
+body {
+  background-image: linear-gradient(white, black);
+}
